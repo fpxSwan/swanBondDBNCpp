@@ -1,0 +1,9 @@
+D7D74FEC3844
+F4AD6F9F1837
+
+effective c++
+more effective c++
+exceptional c++
+more Exceptional c++
+exceptional c++ style
+effective STL
